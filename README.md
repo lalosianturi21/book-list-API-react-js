@@ -8,10 +8,12 @@ git clone https://github.com/lalosianturi21/book-list-API-react-js
 
 <b> Folder Frontend </b>
 npm install
+
 npm start
 
 <b> Folder Server </b>
 npm install
+
 npm start
 
 <b> Mysql </b>
@@ -21,6 +23,15 @@ create your database banco and insert file banco sql in folder server
 # Project Result
 <b>Page login </b>
 ![image](https://user-images.githubusercontent.com/101650151/227758134-27767fca-20a8-48a8-a226-657a4935c0c4.png)
+
+<b>Page register </b>
+![image](https://user-images.githubusercontent.com/101650151/227758319-dd7108aa-dbda-4bbb-9fe3-c76bb12d5741.png)
+
+<b>Page Home </p>
+![image](https://user-images.githubusercontent.com/101650151/227758339-72f2ac7f-1249-49e2-87d1-c5a49128146c.png)
+
+<b>Page view detail </p>
+![image](https://user-images.githubusercontent.com/101650151/227758370-0b295675-d7fe-42c2-98dc-e26e9864674d.png)
 
 
 <b>Congratulations 👌👌👌🙌🙌🙌</b
