@@ -7,11 +7,13 @@ Various lists of book lists that I took from the link https://example-data.draft
 git clone https://github.com/lalosianturi21/book-list-API-react-js 
 
 <b> Folder Frontend </b>
+
 npm install
 
 npm start
 
 <b> Folder Server </b>
+
 npm install
 
 npm start
@@ -22,7 +24,7 @@ create your database banco and insert file banco sql in folder server
 
 # Project Result
 <b>Page login </b>
-![image](https://user-images.githubusercontent.com/101650151/227758134-27767fca-20a8-48a8-a226-657a4935c0c4.png)
+![image](https://user-images.githubusercontent.com/101650151/227760158-d8eba946-58c4-41d4-962b-371417f18419.png)
 
 <b>Page register </b>
 ![image](https://user-images.githubusercontent.com/101650151/227758319-dd7108aa-dbda-4bbb-9fe3-c76bb12d5741.png)
